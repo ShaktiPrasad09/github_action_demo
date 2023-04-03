@@ -15,4 +15,3 @@ jobs:
           node-version: 12
       - run: npm install -g bats
       - run: bats tests
-        working-directory: scripts/myapp
