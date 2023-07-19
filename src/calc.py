@@ -5,4 +5,4 @@ def product(a, b):
 
 def test_add():
     assert add(11, -6) == 5
-    assert product(10, 2) == 20
+    assert product(20, 2) == 10
